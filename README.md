@@ -1,0 +1,22 @@
+https://youtu.be/FoJs7OZ7a2w?list=PLrDJyIDOBVHd_ENljBmzyq4WcWJUrfCOg
+
+- Swift
+- SwiftUI
+- MVVM
+- Core Data
+- File Manager
+- Combine
+- API Requests
+- Mock Data
+- Filtering 
+- Listing
+- Reload Data
+- Add
+- Delete
+- Update
+- Animations
+- Clean Code
+- Geometry Reader
+- Launch Screen
+- Launch Animation
+- Reactive Programming
